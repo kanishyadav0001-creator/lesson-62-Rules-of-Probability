@@ -7,3 +7,4 @@ total_guests = list(intersection)
 print("Total guest to be invited in party are:",len(total_guests))
 print("Guest List :", total_guests)
 
+
